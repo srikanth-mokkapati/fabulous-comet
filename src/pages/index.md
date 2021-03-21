@@ -17,7 +17,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: blue
+      background_color: white
       background_image: images/HomePageBackground.jpg
       background_image_opacity: 30
       background_image_size: auto
