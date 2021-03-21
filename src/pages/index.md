@@ -1,18 +1,6 @@
 ---
 title: Home
 sections:
-  - actions: []
-    align: center
-    image_alt: lorem-ipsum
-    image_position: right
-    has_background: true
-    background:
-      background_color: white
-      background_image_opacity: 0
-      background_image_size: cover
-      background_image_repeat: repeat
-      background_image: images/HomePageBackground.jpg
-    type: hero_section
   - type: hero_section
     title: Gurram Jagan Mohan Rao Gardens & Function Hall
     subtitle: 'Sarathi Nagar, Khammam, Telangana - 507003'
