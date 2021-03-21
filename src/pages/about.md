@@ -19,6 +19,19 @@ sections:
     title: Our Team
     team:
       - src/data/team/hanson-deck.yaml
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    align: left
+    image_alt: lorem-ipsum
+    image_position: left
+    has_background: false
+    background:
+      background_color: white
+      background_image_opacity: 0
+      background_image_size: cover
+      background_image_repeat: no-repeat
+    type: hero_section
 seo:
   title: Who We Are
   description: This is the about us page
