@@ -76,8 +76,7 @@ sections:
     background_color: gray
   - title: lorem-ipsum
     features:
-      - title: lorem-ipsum
-        align: center
+      - align: center
         image_alt: lorem-ipsum
         image_position: left
         actions: []
