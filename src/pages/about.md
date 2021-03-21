@@ -6,15 +6,15 @@ sections:
     align: center
   - type: content_section
     content: >
-      ###### Gurram Jagan Mohan Rao Gardens & Function Hall is located at the
-      heart of Khammam. We can host up to 2500 people and have a 2 Acre Parking
-      for up to 500 Cars and located in serene and vibrant environment.
+      Gurram Jagan Mohan Rao Gardens & Function Hall is located at the heart of
+      Khammam. We can host up to 2500 people and have a 2 Acre Parking for up to
+      500 Cars and located in serene and vibrant environment.
 
 
-      ###### We host all kinds of Events, Parties and Meetings. We provide
-      services as per need including Decoration, Catering and Tent Supplies,
-      Safe and Wide Cooking Area, Coolers, Generator and Electric Supplies and
-      Separate Dining Area.
+      We host all kinds of Events, Parties and Meetings. We provide services as
+      per need including Decoration, Catering and Tent Supplies, Safe and Wide
+      Cooking Area, Coolers, Generator and Electric Supplies and Separate Dining
+      Area.
 seo:
   title: Who We Are
   description: This is the about us page
