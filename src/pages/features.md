@@ -9,7 +9,7 @@ sections:
     features:
       - title: Mandapam
         content: |
-          Decoration for All Events
+          Mandapam and Hall Decoration.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
