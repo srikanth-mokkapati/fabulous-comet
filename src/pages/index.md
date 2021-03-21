@@ -28,7 +28,7 @@ sections:
     image: images/hero.svg
     image_alt: Hero placeholder image
     image_position: right
-    has_background: false
+    has_background: true
     background:
       background_color: gray
       background_image: images/HomePageBackground.jpg
