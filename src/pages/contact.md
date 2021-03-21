@@ -6,7 +6,7 @@ sections:
     align: center
     image: images/ProfileHome.jpg
     image_position: right
-    subtitle: 'G. Jagan Mohan Rao - '
+    subtitle: G. Jagan Mohan Rao - 94410
   - type: contact_section
 seo:
   title: Contact
