@@ -15,10 +15,6 @@ sections:
       per need including Decoration, Catering and Tent Supplies, Safe and Wide
       Cooking Area, Coolers, Generator and Electric Supplies and Separate Dining
       Area.
-  - type: team_section
-    title: Our Team
-    team:
-      - src/data/team/hanson-deck.yaml
 seo:
   title: Who We Are
   description: This is the about us page
