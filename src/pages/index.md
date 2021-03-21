@@ -21,6 +21,7 @@ sections:
       background_image_opacity: 1
       background_image_size: auto
       background_image_repeat: no-repeat
+      background_image: images/HomePageBackground.jpg
   - type: features_section
     title: Services
     features:
