@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Contact
     align: center
+    image: images/ProfileHome.jpg
   - type: contact_section
 seo:
   title: Contact
