@@ -48,7 +48,7 @@ sections:
             style: secondary
       - title: Decoration
         content: |
-          Decoration for all Events
+          Decoration for all Events.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
