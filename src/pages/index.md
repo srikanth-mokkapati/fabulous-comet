@@ -11,7 +11,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-    align: left
+    align: right
     image: images/ProfileHome.jpg
     image_alt: Hero placeholder image
     image_position: right
