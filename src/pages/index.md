@@ -50,7 +50,7 @@ sections:
         content: |
           Decoration for all Events.
         align: left
-        image: images/feature.svg
+        image: images/Decoration.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
