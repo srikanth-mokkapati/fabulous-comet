@@ -7,7 +7,7 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: Decoration
+      - title: Mandapam
         content: |
           Decoration for All Events
         align: left
