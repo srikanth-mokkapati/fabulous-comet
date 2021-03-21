@@ -1,8 +1,7 @@
 ---
 title: Home
 sections:
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     align: left
     image_alt: lorem-ipsum
