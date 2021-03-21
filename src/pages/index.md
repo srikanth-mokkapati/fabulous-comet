@@ -28,7 +28,7 @@ sections:
         content: |
           Mandapam and Stage Decoration.
         align: left
-        image: images/feature.svg
+        image: images/Mandapam.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
