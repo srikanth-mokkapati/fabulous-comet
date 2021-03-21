@@ -17,7 +17,6 @@ sections:
       Area.
   - type: team_section
     title: Our Team
-    align: center
     team:
       - src/data/team/hanson-deck.yaml
 seo:
