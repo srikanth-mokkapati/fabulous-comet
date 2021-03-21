@@ -17,7 +17,6 @@ sections:
   - type: team_section
     title: Our Team
     team:
-      - src/data/team/miles-tone.yaml
       - src/data/team/hanson-deck.yaml
 seo:
   title: Who We Are
