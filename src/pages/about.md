@@ -15,7 +15,6 @@ sections:
       per need including Decoration, Catering and Tent Supplies, Safe and Wide
       Cooking Area, Coolers, Generator and Electric Supplies and Separate Dining
       Area.
-  - type: contact_section
 seo:
   title: Who We Are
   description: This is the about us page
