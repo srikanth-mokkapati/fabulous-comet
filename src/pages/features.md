@@ -19,7 +19,7 @@ sections:
         content: |
           Seating Capacity up to 2500 Guests.
         align: left
-        image: images/feature.svg
+        image: images/Seating.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
