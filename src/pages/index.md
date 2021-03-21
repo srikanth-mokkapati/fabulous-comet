@@ -93,6 +93,7 @@ sections:
         image_position: left
         actions: []
         type: feature
+        image: images/HomePageBackground.jpg
     type: features_section
 seo:
   title: Stackbit Starter Theme
