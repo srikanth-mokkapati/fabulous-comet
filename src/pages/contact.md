@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Contact G. Jagan Mohan Rao - 9441033892
+    title: G. Jagan Mohan Rao - 9441033892
     align: center
     image: images/ProfileHome.jpg
     image_position: right
