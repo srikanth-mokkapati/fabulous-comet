@@ -6,6 +6,7 @@ sections:
     align: center
     image: images/ProfileHome.jpg
     image_position: right
+    subtitle: G
   - type: contact_section
 seo:
   title: Contact
