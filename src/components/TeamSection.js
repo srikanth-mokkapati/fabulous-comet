@@ -13,7 +13,7 @@ export default class TeamSection extends React.Component {
                 <h2 className="section__title">{_.get(section, 'title', null)}</h2>
               </div>
               )}
-              <div className="container container--lg">
+              <div className="container container--lg align-center">
                 <div className="flex flex--col-3">
                   {_.map(_.get(section, 'team', null), (person, person_idx) => {
                       let person_data = getData(this.props.pageContext.site.data, person);
