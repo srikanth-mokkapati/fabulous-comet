@@ -6,7 +6,7 @@ sections:
     align: center
     image: images/ProfileHome.jpg
     image_position: right
-    subtitle: G. Jagan Mohan Rao - 94410
+    subtitle: G. Jagan Mohan Rao - 9441033892
   - type: contact_section
 seo:
   title: Contact
