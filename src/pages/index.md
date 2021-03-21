@@ -30,7 +30,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: gray
+      background_color: blue
       background_image_opacity: 1
       background_image_size: auto
       background_image_repeat: no-repeat
