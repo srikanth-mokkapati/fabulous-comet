@@ -13,10 +13,11 @@ sections:
 
       We host all kinds of Events, Parties and Meetings. We provide services as
       per need including Decoration, Catering and Tent Supplies, Safe and Wide
-      Cooking Area, Coolers and Separate Dining Area. 
+      Cooking Area, Coolers, Generator and Electric Supplies and Separate Dining
+      Area.
   - type: team_section
     title: Our Team
-    align: center 
+    align: center
     team:
       - src/data/team/hanson-deck.yaml
 seo:
