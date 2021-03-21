@@ -16,7 +16,7 @@ sections:
       Cooking Area, Coolers and Separate Dining Area. 
   - type: team_section
     title: Our Team
-    align : 
+    align: center 
     team:
       - src/data/team/hanson-deck.yaml
 seo:
